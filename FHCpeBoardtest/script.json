@@ -1,0 +1,40 @@
+{
+  "entry": "index.tsx",
+  "contributors": [],
+  "author": {
+    "email": null,
+    "homepage": null,
+    "name": ""
+  },
+  "color": "rgba(0, 180, 240, 1.00)",
+  "runInApp": true,
+  "description": "CPE融合控制台看板，仅支持烽火全系设备;",
+  "permissions": null,
+  "remoteResource": {
+    "url": "https://gitee.com/vaeann/vaeann/raw/master/FHCpeBoard-%E6%B5%8B%E8%AF%95%E7%89%88.scripting",
+    "hash": "5b596f93ff85032e15e28c53986c9729",
+    "autoUpdateInterval": 600
+  },
+  "localizedNames": {
+    "en": "FHCpeBoard-测试版",
+    "zh": "FHCpeBoard-测试版",
+    "zh-Hans": "FHCpeBoard-测试版"
+  },
+  "intentInputTypes": [],
+  "version": "v1.1.5",
+  "name": "FHCpeBoardTest",
+  "iconImage": "",
+  "localizedDescriptions": {
+    "fr": "",
+    "ru": "",
+    "en": "",
+    "zh": "CPE融合控制台看板，仅支持烽火全系设备;",
+    "zh-Hans": "CPE融合控制台看板，仅支持烽火全系设备;",
+    "pt": "",
+    "it": "",
+    "es": "",
+    "ja": "",
+    "de": ""
+  },
+  "icon": "ipad"
+}
