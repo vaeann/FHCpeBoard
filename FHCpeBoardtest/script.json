@@ -11,7 +11,7 @@
   "description": "CPE融合控制台看板，仅支持烽火全系设备;",
   "permissions": null,
   "remoteResource": {
-    "url": "https://cdn.jsdelivr.net/gh/vaeann/FHCpeBoard@main/FHCpeBoardtest/v1.3.13.scripting",
+    "url": "https://github.com/vaeann/FHCpeBoard/tree/main/FHCpeBoardtest",
     "hash": "",
     "autoUpdateInterval": 600
   },
@@ -21,7 +21,7 @@
     "zh-Hans": "FHCpeBoard-测试版"
   },
   "intentInputTypes": [],
-  "version": "v1.3.13.1",
+  "version": "v1.3.13",
   "name": "FHCpeBoardTest",
   "iconImage": "",
   "localizedDescriptions": {
