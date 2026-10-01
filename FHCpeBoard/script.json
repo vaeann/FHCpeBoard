@@ -11,8 +11,8 @@
   "description": "CPE融合控制台看板，仅支持烽火全系设备;",
   "permissions": null,
   "remoteResource": {
-    "url": "https://github.com/vaeann/FHCpeBoard/tree/main/FHCpeBoard",
-    "hash": "",
+    "url": "https://raw.githubusercontent.com/vaeann/FHCpeBoard/main/FHCpeBoard/FHCpeBoard.scripting",
+    "hash": "3e19d8ef",
     "autoUpdateInterval": 600
   },
   "localizedNames": {
@@ -21,7 +21,7 @@
     "zh-Hans": "FHCpeBoard"
   },
   "intentInputTypes": [],
-  "version": "v1.3.15",
+  "version": "v1.3.16",
   "name": "FHCpeBoard",
   "iconImage": "",
   "localizedDescriptions": {
