@@ -12,7 +12,7 @@
   "permissions": null,
   "remoteResource": {
     "url": "https://raw.githubusercontent.com/vaeann/FHCpeBoard/main/FHCpeBoard/FHCpeBoard.scripting",
-    "hash": "6795e38c",
+    "hash": "c3f4b15c",
     "autoUpdateInterval": 600
   },
   "localizedNames": {
