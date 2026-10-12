@@ -12,7 +12,7 @@
   "permissions": null,
   "remoteResource": {
     "url": "https://raw.githubusercontent.com/vaeann/FHCpeBoard/main/FHCpeBoardtest/FHCpeBoardTest.scripting",
-    "hash": "ac8a8446",
+    "hash": "32a154b3",
     "autoUpdateInterval": 600
   },
   "localizedNames": {
@@ -21,7 +21,7 @@
     "zh-Hans": "FHCpeBoard-测试版"
   },
   "intentInputTypes": [],
-  "version": "202610121832",
+  "version": "202610122032",
   "name": "FHCpeBoardTest",
   "iconImage": "",
   "localizedDescriptions": {
